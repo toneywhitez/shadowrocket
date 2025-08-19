@@ -45,7 +45,9 @@ _Базы обновляются раз в неделю по воскресен�
   <details>
  <summary>IP</summary>
  
-- amazon_ips.list - IP-подсети Amazon (AWS CloudFront) 
+- amazon_ips.list - IP-подсети Amazon (AWS CloudFront)
+
+- akami_ips.list 0 IP подсети AKAMI
 
 - cdn77_ips.list - IP-подсети CDN77
 
@@ -63,6 +65,8 @@ _Базы обновляются раз в неделю по воскресен�
 
 - linode_ips.list - IP-подсети Linode
 
+- ocarle_ips.list - IP подсети Oracle 
+
 - meta_ips.list - IP-подсети Meta
 
 - ovh_ips.list - IP-подсети OVH
@@ -70,4 +74,6 @@ _Базы обновляются раз в неделю по воскресен�
 - ru_ips.list - IP-подсети России
 
 - telegram_ips.list - IP-подсети Telegram
+
+- vultr_ips.list - IP подсети Vultr
     </details>
