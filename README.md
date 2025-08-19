@@ -3,6 +3,12 @@
 
 # Конфиг файл для ShadowRocket 
 
+## Ссылка на скачивание 
+
+https://github.com/toneywhitez/shadowrocket/blob/main/Conf_Zkeen.conf
+
+## Основа
+
 **Zkeen domains**: https://github.com/jameszeroX/zkeen-domains
 
 **Zkeen IP**: https://github.com/jameszeroX/zkeen-ip
@@ -11,7 +17,7 @@ _Базы обновляются раз в неделю по субботам_
 
 Спасибо за **конвертер** баз Anton111111: https://github.com/Anton111111/rule-lists, **мой форк**: https://github.com/toneywhitez/zkeen_rules 
 
-## Категории, добавленные в конфиг:
+## Категории, добавленные в конфиг
 **Домены**:
 - domains.list - домены, заблокированные в России
 - other.list - домены, которые сами заблокировали подключения из России
@@ -24,7 +30,7 @@ _Базы обновляются раз в неделю по субботам_
 - discord_ips.list - IP-подсети голосовых серверов Discord
 - telegram_ips.list - IP-подсети Telegram
 
-## Полный список баз Zkeen, можно добавить по своему желанию через Правило -> RULE-SET + ссылка на .list файл -> PROXY/DIRECT (или иное ваше правило):
+## Полный список баз Zkeen, можно добавить по своему желанию через Правило -> RULE-SET + ссылка на .list файл -> PROXY/DIRECT (или иное ваше правило)
 <details>
  <summary>Домены</summary>
 
