@@ -5,7 +5,7 @@
 
 ## Ссылка на скачивание 
 
-https://github.com/toneywhitez/shadowrocket/blob/main/Conf_Zkeen.conf
+https://raw.githubusercontent.com/toneywhitez/shadowrocket/refs/heads/main/Conf_Zkeen.conf 
 
 ## Основа
 
