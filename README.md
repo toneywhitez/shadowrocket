@@ -4,9 +4,9 @@
 # Конфиг файл для ShadowRocket 
 
 ## Ссылка на скачивание 
-
+```bash
 https://raw.githubusercontent.com/toneywhitez/shadowrocket/refs/heads/main/Conf_Zkeen.conf 
-
+```
 ## Основа
 
 **Zkeen domains**: https://github.com/jameszeroX/zkeen-domains
