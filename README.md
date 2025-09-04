@@ -27,6 +27,7 @@ _Базы обновляются раз в неделю по воскресен�
 
 **IP**:
 - meta_ips.list - IP-подсети Meta
+- telegram_ips.list - IP-подсети Telegram
 - cloudflare_ips.list - IP-подсети CloudFlare
 - discord_ips.list - IP-подсети голосовых серверов Discord
 
