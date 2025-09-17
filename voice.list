@@ -1,4 +1,12 @@
-DST-PORT,596-599
-DST-PORT,1400
-DST-PORT,5222
-DST-PORT,3478
+# WhatsApp/Telegram/FaceTime — Голос
+DST-PORT,3478,PROXY
+DST-PORT,3480,PROXY
+DST-PORT,3484,PROXY
+# WhatsApp — Видео
+DST-PORT,5222,PROXY
+# Telegram — Голос и видео (RTP / P2P)
+DST-PORT,596-599,PROXY
+# TCP порт для сигнальных звонков Telegram
+DST-PORT,1400,PROXY
+# Google Meet
+DST-PORT,19302​–19309,PROXY
