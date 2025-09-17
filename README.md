@@ -3,7 +3,7 @@
 
 # Конфиг файл для ShadowRocket 
 
-## Ссылка на скачивание 
+## Ссылка на скачивание/обновление 
 ```bash
 https://raw.githubusercontent.com/toneywhitez/shadowrocket/refs/heads/main/Conf_Zkeen.conf 
 ```
