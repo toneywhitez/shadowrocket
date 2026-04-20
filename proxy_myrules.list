@@ -1,0 +1,17 @@
+#MyWebSites 
+DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,sunucun.com.tr
+DOMAIN-SUFFIX,oyunfor.com
+#RedotPay
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.zendesk.com
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+#Wise
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wise.com
+#Offramp
+DOMAIN-SUFFIX,offramp.xyz
+DOMAIN-SUFFIX,app.offramp.xyz
+DOMAIN-KEYWORD,offramp
